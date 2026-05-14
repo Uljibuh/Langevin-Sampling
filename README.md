@@ -1,4 +1,6 @@
-# Langevin-Sampling
+# understanding the Langevin Sampling, Langevin Diffusion, and ItoSDE from first principles
+
+# Part 1 Langevin-Sampling
 Langevin Sampling — Step-by-Step Calculation Walkthrough
 
 
